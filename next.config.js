@@ -266,12 +266,6 @@ const nextConfig = {
     ];
   },
   
-  // Experimental features for better performance
-  experimental: {
-    optimizeCss: true,
-    optimizePackageImports: ['@next/font', 'react-icons'],
-  },
-  
   // Compiler options
   compiler: {
     removeConsole: process.env.NODE_ENV === 'production',
