@@ -1,0 +1,85 @@
+# Robots.txt for EduInfra - Final Year Projects by Rohit Gunthal
+# https://eduinfra.vercel.app/robots.txt
+
+User-agent: *
+Allow: /
+
+# Allow crawling of all important pages for Rohit Gunthal SEO
+Allow: /rohit-gunthal-developer
+Allow: /rohit-gunthal-final-year-projects
+Allow: /react-projects-rohit-gunthal
+Allow: /python-projects-rohit-gunthal
+Allow: /machine-learning-projects-rohit-gunthal
+Allow: /blockchain-projects-rohit-gunthal
+Allow: /mumbai-final-year-project-developer
+Allow: /eduinfra-rohit-gunthal-founder
+Allow: /contact-rohit-gunthal
+Allow: /portfolio-rohit-gunthal
+
+# Block admin areas
+Disallow: /admin/
+Disallow: /admin/dashboard/
+Disallow: /api/
+
+# Block temporary and development files
+Disallow: /_next/
+Disallow: /node_modules/
+Disallow: /.git/
+Disallow: /.env
+Disallow: /package.json
+Disallow: /package-lock.json
+
+# Sitemap location
+Sitemap: https://eduinfra.vercel.app/sitemap.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
+
+# Specific instructions for major search engines
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 1
+
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 2
+
+User-agent: YandexBot
+Allow: /
+Crawl-delay: 2
+
+# Block bad bots and scrapers
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MegaIndex
+Disallow: /
+
+# Additional SEO information
+# Website: https://eduinfra.vercel.app
+# Developer: Rohit Gunthal
+# Email: eduinfra.contact@gmail.com
+# Phone: +91-8408088454
+# Services: Final Year Projects, React Development, Python Programming, Machine Learning, Blockchain
+# Location: Mumbai, Maharashtra, India 
