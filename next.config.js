@@ -3,9 +3,6 @@ const nextConfig = {
   // Enable React strict mode for better development
   reactStrictMode: true,
   
-  // Enable SWC minification for better performance
-  swcMinify: true,
-  
   // Image optimization settings
   images: {
     domains: ['eduinfra.vercel.app'],
@@ -297,13 +294,6 @@ const nextConfig = {
     }
     
     return config;
-  },
-  
-  // PWA configuration
-  pwa: {
-    dest: 'public',
-    register: true,
-    skipWaiting: true,
   },
 };
 
