@@ -1,0 +1,224 @@
+# Robots.txt for EduInfra - Final Year Projects by Rohit Gunthal
+# https://eduinfra.vercel.app/robots.txt
+# Developer: Rohit Gunthal | Contact: eduinfra.contact@gmail.com | Phone: +91-8408088454
+
+User-agent: *
+Allow: /
+
+# Allow crawling of all important pages for Rohit Gunthal SEO
+Allow: /rohit-gunthal-developer
+Allow: /rohit-gunthal-final-year-projects
+Allow: /eduinfra-rohit-gunthal-founder
+Allow: /contact-rohit-gunthal
+Allow: /portfolio-rohit-gunthal
+Allow: /about-rohit-gunthal
+
+# Technology-specific project pages
+Allow: /react-final-year-projects
+Allow: /python-final-year-projects
+Allow: /java-final-year-projects
+Allow: /machine-learning-final-year-projects
+Allow: /blockchain-final-year-projects
+Allow: /flutter-final-year-projects
+Allow: /nodejs-final-year-projects
+Allow: /mern-stack-final-year-projects
+Allow: /php-final-year-projects
+Allow: /django-final-year-projects
+
+# Popular project categories
+Allow: /ecommerce-final-year-projects
+Allow: /hospital-management-system-project
+Allow: /library-management-system-project
+Allow: /school-management-system-project
+Allow: /online-shopping-website-project
+Allow: /social-media-website-project
+Allow: /chat-application-project
+Allow: /online-examination-system-project
+
+# Course-specific pages
+Allow: /btech-final-year-projects
+Allow: /mca-final-year-projects
+Allow: /cse-final-year-projects
+Allow: /bca-final-year-projects
+Allow: /msc-cs-final-year-projects
+
+# Location-based pages
+Allow: /mumbai-final-year-project-developer
+Allow: /maharashtra-final-year-projects
+Allow: /india-final-year-project-developer
+
+# Service pages
+Allow: /ready-made-projects
+Allow: /custom-project-development
+Allow: /project-documentation
+Allow: /project-support
+
+# Blog/Content pages
+Allow: /final-year-project-ideas
+Allow: /project-selection-guide
+Allow: /technology-trends-2024
+
+# Legal pages
+Allow: /privacy-policy
+Allow: /terms-of-service
+Allow: /refund-policy
+
+# Block admin areas and sensitive content
+Disallow: /admin/
+Disallow: /admin/dashboard/
+Disallow: /api/
+Disallow: /_next/
+Disallow: /node_modules/
+Disallow: /.git/
+Disallow: /.env
+Disallow: /package.json
+Disallow: /package-lock.json
+Disallow: /yarn.lock
+Disallow: /pnpm-lock.yaml
+Disallow: /.vercel/
+Disallow: /vercel.json
+Disallow: /next.config.js
+Disallow: /tailwind.config.js
+Disallow: /postcss.config.js
+Disallow: /tsconfig.json
+Disallow: /eslint.config.js
+Disallow: /.eslintrc
+Disallow: /README.md
+Disallow: /CHANGELOG.md
+Disallow: /LICENSE
+Disallow: /.github/
+Disallow: /.vscode/
+Disallow: /coverage/
+Disallow: /dist/
+Disallow: /build/
+Disallow: /.cache/
+Disallow: /tmp/
+Disallow: /temp/
+
+# Sitemap location - Updated to new dynamic route
+Sitemap: https://eduinfra.vercel.app/sitemap.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
+
+# Specific instructions for major search engines
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Googlebot-Image
+Allow: /
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.gif$
+Allow: /*.png$
+Allow: /*.webp$
+Allow: /*.svg$
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 1
+
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 2
+
+User-agent: YandexBot
+Allow: /
+Crawl-delay: 2
+
+User-agent: facebookexternalhit
+Allow: /
+Crawl-delay: 1
+
+User-agent: Twitterbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: LinkedInBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: WhatsApp
+Allow: /
+Crawl-delay: 1
+
+# Block bad bots and scrapers
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MegaIndex
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: Ezooms
+Disallow: /
+
+User-agent: GrapeshotCrawler
+Disallow: /
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: archive.org_bot
+Disallow: /
+
+User-agent: WaybackMachine
+Disallow: /
+
+# Block content scrapers
+User-agent: CopyScape
+Disallow: /
+
+User-agent: Copyscape
+Disallow: /
+
+User-agent: PlagiarismDetector
+Disallow: /
+
+# Block automated tools
+User-agent: Wget
+Disallow: /
+
+User-agent: curl
+Disallow: /
+
+User-agent: Python-urllib
+Disallow: /
+
+User-agent: Java
+Disallow: /
+
+User-agent: PHP
+Disallow: /
+
+# Additional SEO information
+# Website: https://eduinfra.vercel.app
+# Developer: Rohit Gunthal
+# Email: eduinfra.contact@gmail.com
+# Phone: +91-8408088454
+# Services: Final Year Projects, React Development, Python Programming, Machine Learning, Blockchain
+# Location: Mumbai, Maharashtra, India
+# Copyright: © 2024 EduInfra Solutions - All Rights Reserved 

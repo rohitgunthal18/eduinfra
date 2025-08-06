@@ -1,0 +1,65 @@
+/* TEAM */
+Developer: Rohit Gunthal
+Contact: eduinfra.contact@gmail.com
+Phone: +91-8408088454
+Location: Mumbai, Maharashtra, India
+Company: EduInfra Solutions
+Role: Founder & Lead Developer
+Expertise: Final Year Projects, React Development, Python Programming, Machine Learning, Blockchain
+
+/* SITE */
+Last update: 2024/12/26
+Language: English, Hindi
+Doctype: HTML5
+IDE: Visual Studio Code
+Standards: HTML5, CSS3, JavaScript ES6+, React 18, Next.js 14
+Components: Tailwind CSS, TypeScript
+Analytics: Google Analytics 4
+Hosting: Vercel
+Backend: Render (Express.js, SQLite)
+Version: 2.0.0
+
+/* SERVICES */
+- Final Year Project Development
+- React.js Applications
+- Python Django/Flask Projects
+- Machine Learning Solutions
+- Blockchain Applications
+- Mobile App Development (Flutter)
+- Full Stack Development
+- Project Documentation
+- Deployment & Support
+
+/* EXPERTISE */
+- Computer Science Final Year Projects
+- BTech/MCA/BE Project Solutions
+- Web Development (MERN Stack)
+- Mobile App Development
+- AI/ML Project Implementation
+- Database Design & Management
+- API Development & Integration
+- Cloud Deployment
+- Project Documentation & Reports
+
+/* ACHIEVEMENTS */
+- 500+ Successful Projects Delivered
+- 95% Client Satisfaction Rate
+- 4.9/5 Average Rating
+- 24/7 Support Available
+- Quick Delivery (3-5 Days)
+- Free Revisions & Support
+- A+ Grade Guarantee
+
+/* CONTACT */
+Email: eduinfra.contact@gmail.com
+Phone: +91-8408088454
+WhatsApp: wa.me/918408088454
+LinkedIn: linkedin.com/in/xrohia
+Twitter: twitter.com/xrohia
+Instagram: instagram.com/xrohia
+Website: https://eduinfra.vercel.app
+
+/* COPYRIGHT */
+© 2024 EduInfra Solutions - All Rights Reserved
+Developed by: Rohit Gunthal
+Unauthorized reproduction or distribution is strictly prohibited 

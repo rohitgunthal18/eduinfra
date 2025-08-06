@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+    <msapplication>
+        <tile>
+            <square150x150logo src="/favicon.svg"/>
+            <square310x310logo src="/favicon.svg"/>
+            <square70x70logo src="/favicon.svg"/>
+            <TileColor>#3b82f6</TileColor>
+            <TileImage src="/favicon.svg"/>
+        </tile>
+    </msapplication>
+    <msapplication-config>
+        <msapplication>
+            <tile>
+                <square150x150logo src="/favicon.svg"/>
+                <square310x310logo src="/favicon.svg"/>
+                <square70x70logo src="/favicon.svg"/>
+                <TileColor>#3b82f6</TileColor>
+                <TileImage src="/favicon.svg"/>
+            </tile>
+        </msapplication>
+    </msapplication-config>
+</browserconfig> 

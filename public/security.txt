@@ -1,0 +1,24 @@
+# Security Policy for EduInfra - Final Year Projects by Rohit Gunthal
+# Contact: Rohit Gunthal | Email: eduinfra.contact@gmail.com | Phone: +91-8408088454
+
+Contact: mailto:eduinfra.contact@gmail.com
+Contact: tel:+91-8408088454
+Expires: 2025-12-31T23:59:59.000Z
+Preferred-Languages: en, hi
+Canonical: https://eduinfra.vercel.app/.well-known/security.txt
+Policy: https://eduinfra.vercel.app/security-policy
+Hiring: https://eduinfra.vercel.app/careers
+
+# Security Contact Information
+# Developer: Rohit Gunthal
+# Company: EduInfra Solutions
+# Website: https://eduinfra.vercel.app
+# Services: Final Year Projects, React Development, Python Programming, Machine Learning, Blockchain
+
+# Bug Bounty Program
+# We welcome security researchers to report vulnerabilities
+# Please contact us at eduinfra.contact@gmail.com for any security concerns
+
+# Copyright Notice
+# © 2024 EduInfra Solutions - All Rights Reserved
+# Developed by: Rohit Gunthal 

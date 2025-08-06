@@ -1,0 +1,23 @@
+# Ads.txt for EduInfra - Final Year Projects by Rohit Gunthal
+# This file is for advertising transparency and SEO purposes
+# Developer: Rohit Gunthal | Contact: eduinfra.contact@gmail.com
+
+# No third-party advertising relationships currently
+# This is an educational service website
+
+# Contact Information
+# Email: eduinfra.contact@gmail.com
+# Phone: +91-8408088454
+# Website: https://eduinfra.vercel.app
+
+# Services Offered
+# - Final Year Project Development
+# - React.js Applications
+# - Python Programming Projects
+# - Machine Learning Solutions
+# - Blockchain Applications
+# - Mobile App Development
+
+# Copyright Notice
+# © 2024 EduInfra Solutions - All Rights Reserved
+# Developed by: Rohit Gunthal 

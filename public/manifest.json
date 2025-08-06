@@ -1,0 +1,93 @@
+{
+  "name": "EduInfra - Final Year Projects by Rohit Gunthal",
+  "short_name": "EduInfra",
+  "description": "Premium final year projects for Computer Science, BTech, MCA students with complete source code and documentation by Rohit Gunthal. 500+ successful projects delivered.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["education", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/og-image.svg",
+      "sizes": "1200x630",
+      "type": "image/svg+xml",
+      "form_factor": "wide",
+      "label": "EduInfra - Final Year Projects by Rohit Gunthal"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Get Quote",
+      "short_name": "Quote",
+      "description": "Request a quote for your final year project",
+      "url": "/#quote",
+      "icons": [
+        {
+          "src": "/favicon.svg",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Contact Rohit Gunthal",
+      "short_name": "Contact",
+      "description": "Contact Rohit Gunthal for project assistance",
+      "url": "/#contact",
+      "icons": [
+        {
+          "src": "/favicon.svg",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "developer": {
+    "name": "Rohit Gunthal",
+    "email": "eduinfra.contact@gmail.com",
+    "phone": "+91-8408088454",
+    "company": "EduInfra Solutions"
+  },
+  "author": "Rohit Gunthal - Expert Final Year Project Developer",
+  "keywords": [
+    "final year projects",
+    "computer science projects",
+    "BTech projects",
+    "MCA projects",
+    "React projects",
+    "Python projects",
+    "machine learning projects",
+    "blockchain projects",
+    "Rohit Gunthal",
+    "EduInfra",
+    "project developer",
+    "source code",
+    "documentation"
+  ]
+} 
