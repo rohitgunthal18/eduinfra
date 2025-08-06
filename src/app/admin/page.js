@@ -21,7 +21,7 @@ export default function AdminLogin() {
       try {
         await apiClient.getQuotes();
         router.push('/admin/dashboard');
-      } catch (error) {
+      } catch {
         // User not authenticated, stay on login page
       }
     };
